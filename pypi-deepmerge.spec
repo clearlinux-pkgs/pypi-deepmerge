@@ -7,7 +7,7 @@
 #
 Name     : pypi-deepmerge
 Version  : 1.1.1
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/e7/53/09255a8dc8aaab38182f5c3d559022de2970413cbad385938bcc2cce6bfb/deepmerge-1.1.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/e7/53/09255a8dc8aaab38182f5c3d559022de2970413cbad385938bcc2cce6bfb/deepmerge-1.1.1.tar.gz
 Summary  : a toolset to deeply merge python dictionaries.
